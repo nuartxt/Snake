@@ -1,0 +1,12 @@
+/* .can {
+    margin: auto 0;
+    background: url(setka.png);
+    background-size: contain;
+    /* border: 3px solid black; 
+}
+*/
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
